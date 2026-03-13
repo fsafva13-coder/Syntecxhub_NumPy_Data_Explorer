@@ -29,15 +29,19 @@ This project demonstrates the fundamentals of NumPy through a structured, well-d
 ## 📸 Screenshots
 
 ### Array Creation
+<img width="630" height="532" alt="Screenshot 2026-03-13 194648" src="https://github.com/user-attachments/assets/44c3a85a-02f4-4357-8da7-5b1e43e56e23" />
 
 
 ### Indexing & Slicing
+<img width="1090" height="830" alt="Screenshot 2026-03-13 194751" src="https://github.com/user-attachments/assets/2fc1137d-f184-4ac0-9144-b44caf730b87" />
 
 
 ### Statistical Operations
+<img width="735" height="484" alt="Screenshot 2026-03-13 194817" src="https://github.com/user-attachments/assets/389340c2-ae8c-4231-8b3d-65ee2f5b5f91" />
 
 
 ### ⚡ Performance Benchmark — NumPy vs Python Lists
+<img width="988" height="777" alt="Screenshot 2026-03-13 194844" src="https://github.com/user-attachments/assets/40e9e6c4-3ed5-46e9-9228-3380fbfc7ade" />
 
 
 ---
