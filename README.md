@@ -26,6 +26,22 @@ This project demonstrates the fundamentals of NumPy through a structured, well-d
 
 ---
 
+## 📸 Screenshots
+
+### Array Creation
+![Array Creation](screenshots/array_creation.png)
+
+### Indexing & Slicing
+![Indexing and Slicing](screenshots/indexing_slicing.png)
+
+### Statistical Operations
+![Statistical Operations](screenshots/stats_operations.png)
+
+### ⚡ Performance Benchmark — NumPy vs Python Lists
+![Performance Benchmark](screenshots/performance_benchmark.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.x
@@ -61,7 +77,12 @@ jupyter notebook project1_numpy_data_explorer.ipynb
 ```
 Syntecxhub_NumPy_Data_Explorer/
 ├── README.md
-└── project1_numpy_data_explorer.ipynb
+├── project1_numpy_data_explorer.ipynb
+└── screenshots/
+    ├── array_creation.png
+    ├── indexing_slicing.png
+    ├── stats_operations.png
+    └── performance_benchmark.png
 ```
 
 ---
