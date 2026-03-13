@@ -102,4 +102,4 @@ Syntecxhub_NumPy_Data_Explorer/
 ## 👩‍💻 Author
 
 **Fathima Safva** — Data Science Intern @ Syntecxhub  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://linkedin.com/in/fathima-safva-578294315) · [GitHub](https://github.com/fsafva13-coder)
