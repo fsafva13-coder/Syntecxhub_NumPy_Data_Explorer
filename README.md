@@ -29,16 +29,16 @@ This project demonstrates the fundamentals of NumPy through a structured, well-d
 ## 📸 Screenshots
 
 ### Array Creation
-![Array Creation](screenshots/array_creation.png)
+
 
 ### Indexing & Slicing
-![Indexing and Slicing](screenshots/indexing_slicing.png)
+
 
 ### Statistical Operations
-![Statistical Operations](screenshots/stats_operations.png)
+
 
 ### ⚡ Performance Benchmark — NumPy vs Python Lists
-![Performance Benchmark](screenshots/performance_benchmark.png)
+
 
 ---
 
